@@ -1,7 +1,9 @@
 200.quick-start=快速上手
 300.obd-command=OBD 命令
 400.user-guide=使用指南
-  800.physical-standby-database=主备租户
+  200.ui-operations=图形化界面
+  300.command-line-operations=命令行
+    800.physical-standby-database=主备租户
 500.faq=常见问题
 2000.release-notes=版本发布记录
   1000.V2.3=V2.3
