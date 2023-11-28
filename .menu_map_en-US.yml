@@ -1,4 +1,15 @@
 200.quick-start=Quick Start
 300.obd-command=OBD Command
 400.user-guide=User Guide
+  800.physical-standby-database=Physical Standby Database
 500.faq=FAQ
+2000.release-notes=Release Notes
+  1000.V2.3=V2.3
+  1010.V2.2=V2.2
+  1020.V2.1=V2.1
+  1030.V2.0=V2.0
+  1040.V1.6=V1.6
+  1050.V1.5=V1.5
+  1060.V1.4=V1.4
+  1070.V1.3=V1.3
+  1080.V1.2=V1.2
