@@ -1,11 +1,12 @@
 200.quick-start=Quick Start
-300.obd-command=OBD Command
+300.obd-command=obd Command
 400.user-guide=User Guide
   200.ui-operations=Deploy through GUI
   300.command-line-operations=Deploy through CLI
     800.physical-standby-database=Physical Standby Database
 500.faq=FAQ
 2000.release-notes=Release Notes
+  950.V2.8=V2.8
   960.V2.7=V2.7
   970.V2.6=V2.6
   980.V2.5=V2.5
