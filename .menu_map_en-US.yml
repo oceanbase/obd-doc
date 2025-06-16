@@ -3,7 +3,11 @@
 400.user-guide=User Guide
   200.ui-operations=Deploy through GUI
   300.command-line-operations=Deploy through CLI
-    800.physical-standby-database=Physical Standby Database
+    200.deploy-component=Deploy Component
+    300.manage-cluster=Manage Cluster
+      800.physical-standby-database=Physical Standby Database
+    400.takeover-cluster=Takeover Cluster
+    500.upgrade-components=Upgrade Component
 500.faq=FAQ
 2000.release-notes=Release Notes
   880.V3.2=V3.2
