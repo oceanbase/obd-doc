@@ -9,6 +9,7 @@
     400.takeover-cluster=集群接管
     500.upgrade-components=组件升级 
 2000.release-notes=版本发布记录
+  830.V4.0=V4.0
   840.V3.6=V3.6
   850.V3.5=V3.5
   860.V3.4=V3.4
