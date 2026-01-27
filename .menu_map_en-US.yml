@@ -5,6 +5,8 @@
   300.command-line-operations=Deploy through CLI
     200.deploy-component=Component deployment
     800.physical-standby-database=Physical Standby Database
+  400.takeover-cluster=Cluster management
+  500.upgrade-components=Component upgrade
 500.faq=FAQ
 2000.release-notes=Release Notes
   820.V4.1=V4.1
