@@ -6,10 +6,13 @@
     200.deploy-component=Component deployment
     300.manage-cluster=Cluster management
     800.physical-standby-database=Physical Standby Database
+    850.physical-standby-seekdb=seekdb primary/standby instance
   400.takeover-cluster=Cluster management
   500.upgrade-components=Component upgrade
 500.faq=FAQ
 2000.release-notes=Release Notes
+  800.V4.3=V4.3
+  810.V4.2=V4.2
   820.V4.1=V4.1
   830.V4.0=V4.0
   840.V3.6=V3.6
